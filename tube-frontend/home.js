@@ -1,0 +1,1 @@
+const home={template:`<h1>This Page is about modding youre tube amp</h1>`}
